@@ -1,19 +1,38 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-### Describe the problem
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-<!--- What happened? What are you seeing? How did you arrive here? -->
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-### What did you expect?
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-<!--- How would you like this to work instead? -->
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-### Reproducible test case
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-<!--- Insert a URL to your test case on StackBlitz.com. You can use https://stackblitz.com/edit/angular-z8v4ux as a starting template. -->
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-<!--- Describe any details about the test case that we need to know like "whatever you do, don't click the red button" -->
+**Additional context**
+Add any other context about the problem here.

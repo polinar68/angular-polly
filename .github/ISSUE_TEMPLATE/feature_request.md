@@ -1,8 +1,12 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 ### Describe the problem you'd like to see solved or task you'd like to see made easier
 
 <!--- What steps or tasks are you trying to complete along the way? -->
